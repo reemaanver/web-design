@@ -93,6 +93,13 @@ header {
 
 /* FEATURES SECTION */
 
+.feature-icon {
+  stroke: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
+}
+
 .feature {
   margin-bottom: 16px;
   font-size: 20px;
@@ -137,6 +144,12 @@ header {
 .item-descs {
   list-style: none;
   margin-bottom: 24px;
+}
+
+.item-icon {
+  stroke: #087f5b;
+  width: 24px;
+  height: 24px;
 }
 
 .item-descs li {
